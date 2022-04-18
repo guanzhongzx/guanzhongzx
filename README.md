@@ -1,7 +1,7 @@
 - 👋 Hi, I’m xuanzuo.
 - 👀 I’m interested in Artificial Intelligent，complex networks and system science.
 - 🌱 I’m currently learning AI.
-- 💞️ I’m looking to collaborate on muti-agent control.
+- 💞️ I’m looking to collaborate on muti-agents control.
 - 📫 How to reach me: 1069114233@qq.com.
 
 <!---
